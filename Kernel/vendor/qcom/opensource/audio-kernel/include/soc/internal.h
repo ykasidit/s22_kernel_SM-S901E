@@ -1,1 +1,1 @@
-/home/dpi/qb5_8814/workspace/P4_1716/android/kernel_platform/./msm-kernel/drivers/base/regmap/internal.h
+/data0/kernel-android/s22_qc/Kernel/kernel_platform/./msm-kernel/drivers/base/regmap/internal.h
